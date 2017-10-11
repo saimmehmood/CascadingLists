@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<countries>
+    <country countryName="Andorra" capital="Andorra la Vella" />
+    <country countryName="United Arab Emirates" capital="Abu Dhabi" />
+    <country countryName="Afghanistan" capital="Kabul" />
+    <country countryName="Antigua and Barbuda" capital="St. John's" />
+    <country countryName="Anguilla" capital="The Valley" />
+    <country countryName="Albania" capital="Tirana" />
+    <country countryName="Armenia" capital="Yerevan" />
+    <country countryName="Angola" capital="Luanda" />
+    <country countryName="Argentina" capital="Buenos Aires" />
+    <country countryName="American Samoa" capital="Pago Pago" />
+    <country countryName="Austria" capital="Vienna" />
+    <country countryName="Australia" capital="Canberra" />
+    <country countryName="Aruba" capital="Oranjestad" />
+    <country countryName="Åland" capital="Mariehamn" />
+    <country countryName="Azerbaijan" capital="Baku" />
+    <country countryName="Bosnia and Herzegovina" capital="Sarajevo" />
+    <country countryName="Barbados" capital="Bridgetown" />
+    <country countryName="Bangladesh" capital="Dhaka" />
+    <country countryName="Belgium" capital="Brussels" />
+    <country countryName="Burkina Faso" capital="Ouagadougou" />
+    <country countryName="Bulgaria" capital="Sofia" />
+    <country countryName="Bahrain" capital="Manama" />
+    <country countryName="Burundi" capital="Bujumbura" />
+    <country countryName="Benin" capital="Porto-Novo" />
+    <country countryName="Saint Barthélemy" capital="Gustavia" />
+    <country countryName="Bermuda" capital="Hamilton" />
+    <country countryName="Brunei" capital="Bandar Seri Begawan" />
+    <country countryName="Bolivia" capital="Sucre" />
+    <country countryName="Bonaire" capital="Kralendijk" />
+    <country countryName="Brazil" capital="Brasília" />
+    <country countryName="Bahamas" capital="Nassau" />
+    <country countryName="Bhutan" capital="Thimphu" />
+    <country countryName="Bouvet Island" capital="" />
+    <country countryName="Botswana" capital="Gaborone" />
+    <country countryName="Belarus" capital="Minsk" />
+    <country countryName="Belize" capital="Belmopan" />
+    <country countryName="Canada" capital="Ottawa" />
+    <country countryName="Cocos [Keeling] Islands" capital="West Island" />
+    <country countryName="Democratic Republic of the Congo" capital="Kinshasa" />
+    <country countryName="Central African Republic" capital="Bangui" />
+    <country countryName="Republic of the Congo" capital="Brazzaville" />
+    <country countryName="Switzerland" capital="Bern" />
+    <country countryName="Ivory Coast" capital="Yamoussoukro" />
+    <country countryName="Cook Islands" capital="Avarua" />
+    <country countryName="Chile" capital="Santiago" />
+    <country countryName="Cameroon" capital="Yaoundé" />
+    <country countryName="China" capital="Beijing" />
+    <country countryName="Colombia" capital="Bogotá" />
+    <country countryName="Costa Rica" capital="San José" />
+    <country countryName="Cuba" capital="Havana" />
+    <country countryName="Cape Verde" capital="Praia" />
+    <country countryName="Curacao" capital="Willemstad" />
+    <country countryName="Christmas Island" capital="Flying Fish Cove" />
+    <country countryName="Cyprus" capital="Nicosia" />
+    <country countryName="Czechia" capital="Prague" />
+    <country countryName="Germany" capital="Berlin" />
+    <country countryName="Djibouti" capital="Djibouti" />
+    <country countryName="Denmark" capital="Copenhagen" />
+    <country countryName="Dominica" capital="Roseau" />
+    <country countryName="Dominican Republic" capital="Santo Domingo" />
+    <country countryName="Algeria" capital="Algiers" />
+    <country countryName="Ecuador" capital="Quito" />
+    <country countryName="Estonia" capital="Tallinn" />
+    <country countryName="Egypt" capital="Cairo" />
+    <country countryName="Western Sahara" capital="Laâyoune / El Aaiún" />
+    <country countryName="Eritrea" capital="Asmara" />
+    <country countryName="Spain" capital="Madrid" />
+    <country countryName="Ethiopia" capital="Addis Ababa" />
+    <country countryName="Finland" capital="Helsinki" />
+    <country countryName="Fiji" capital="Suva" />
+    <country countryName="Falkland Islands" capital="Stanley" />
+    <country countryName="Micronesia" capital="Palikir" />
+    <country countryName="Faroe Islands" capital="Tórshavn" />
+    <country countryName="France" capital="Paris" />
+    <country countryName="Gabon" capital="Libreville" />
+    <country countryName="United Kingdom" capital="London" />
+    <country countryName="Grenada" capital="St. George's" />
+    <country countryName="Georgia" capital="Tbilisi" />
+    <country countryName="French Guiana" capital="Cayenne" />
+    <country countryName="Guernsey" capital="St Peter Port" />
+    <country countryName="Ghana" capital="Accra" />
+    <country countryName="Gibraltar" capital="Gibraltar" />
+    <country countryName="Greenland" capital="Nuuk" />
+    <country countryName="Gambia" capital="Bathurst" />
+    <country countryName="Guinea" capital="Conakry" />
+    <country countryName="Guadeloupe" capital="Basse-Terre" />
+    <country countryName="Equatorial Guinea" capital="Malabo" />
+    <country countryName="Greece" capital="Athens" />
+    <country countryName="South Georgia and the South Sandwich Islands" capital="Grytviken" />
+    <country countryName="Guatemala" capital="Guatemala City" />
+    <country countryName="Guam" capital="Hagåtña" />
+    <country countryName="Guinea-Bissau" capital="Bissau" />
+    <country countryName="Guyana" capital="Georgetown" />
+    <country countryName="Hong Kong" capital="Hong Kong" />
+    <country countryName="Heard Island and McDonald Islands" capital="" />
+    <country countryName="Honduras" capital="Tegucigalpa" />
+    <country countryName="Croatia" capital="Zagreb" />
+    <country countryName="Haiti" capital="Port-au-Prince" />
+    <country countryName="Hungary" capital="Budapest" />
+    <country countryName="Indonesia" capital="Jakarta" />
+    <country countryName="Ireland" capital="Dublin" />
+    <country countryName="Israel" capital="" />
+    <country countryName="Isle of Man" capital="Douglas" />
+    <country countryName="India" capital="New Delhi" />
+    <country countryName="British Indian Ocean Territory" capital="" />
+    <country countryName="Iraq" capital="Baghdad" />
+    <country countryName="Iran" capital="Tehran" />
+    <country countryName="Iceland" capital="Reykjavik" />
+    <country countryName="Italy" capital="Rome" />
+    <country countryName="Jersey" capital="Saint Helier" />
+    <country countryName="Jamaica" capital="Kingston" />
+    <country countryName="Jordan" capital="Amman" />
+    <country countryName="Japan" capital="Tokyo" />
+    <country countryName="Kenya" capital="Nairobi" />
+    <country countryName="Kyrgyzstan" capital="Bishkek" />
+    <country countryName="Cambodia" capital="Phnom Penh" />
+    <country countryName="Kiribati" capital="Tarawa" />
+    <country countryName="Comoros" capital="Moroni" />
+    <country countryName="Saint Kitts and Nevis" capital="Basseterre" />
+    <country countryName="North Korea" capital="Pyongyang" />
+    <country countryName="South Korea" capital="Seoul" />
+    <country countryName="Kuwait" capital="Kuwait City" />
+    <country countryName="Cayman Islands" capital="George Town" />
+    <country countryName="Kazakhstan" capital="Astana" />
+    <country countryName="Laos" capital="Vientiane" />
+    <country countryName="Lebanon" capital="Beirut" />
+    <country countryName="Saint Lucia" capital="Castries" />
+    <country countryName="Liechtenstein" capital="Vaduz" />
+    <country countryName="Sri Lanka" capital="Colombo" />
+    <country countryName="Liberia" capital="Monrovia" />
+    <country countryName="Lesotho" capital="Maseru" />
+    <country countryName="Lithuania" capital="Vilnius" />
+    <country countryName="Luxembourg" capital="Luxembourg" />
+    <country countryName="Latvia" capital="Riga" />
+    <country countryName="Libya" capital="Tripoli" />
+    <country countryName="Morocco" capital="Rabat" />
+    <country countryName="Monaco" capital="Monaco" />
+    <country countryName="Moldova" capital="Chişinău" />
+    <country countryName="Montenegro" capital="Podgorica" />
+    <country countryName="Saint Martin" capital="Marigot" />
+    <country countryName="Madagascar" capital="Antananarivo" />
+    <country countryName="Marshall Islands" capital="Majuro" />
+    <country countryName="Macedonia" capital="Skopje" />
+    <country countryName="Mali" capital="Bamako" />
+    <country countryName="Myanmar [Burma]" capital="Naypyitaw" />
+    <country countryName="Mongolia" capital="Ulan Bator" />
+    <country countryName="Macao" capital="Macao" />
+    <country countryName="Northern Mariana Islands" capital="Saipan" />
+    <country countryName="Martinique" capital="Fort-de-France" />
+    <country countryName="Mauritania" capital="Nouakchott" />
+    <country countryName="Montserrat" capital="Plymouth" />
+    <country countryName="Malta" capital="Valletta" />
+    <country countryName="Mauritius" capital="Port Louis" />
+    <country countryName="Maldives" capital="Malé" />
+    <country countryName="Malawi" capital="Lilongwe" />
+    <country countryName="Mexico" capital="Mexico City" />
+    <country countryName="Malaysia" capital="Kuala Lumpur" />
+    <country countryName="Mozambique" capital="Maputo" />
+    <country countryName="Namibia" capital="Windhoek" />
+    <country countryName="New Caledonia" capital="Noumea" />
+    <country countryName="Niger" capital="Niamey" />
+    <country countryName="Norfolk Island" capital="Kingston" />
+    <country countryName="Nigeria" capital="Abuja" />
+    <country countryName="Nicaragua" capital="Managua" />
+    <country countryName="Netherlands" capital="Amsterdam" />
+    <country countryName="Norway" capital="Oslo" />
+    <country countryName="Nepal" capital="Kathmandu" />
+    <country countryName="Nauru" capital="Yaren" />
+    <country countryName="Niue" capital="Alofi" />
+    <country countryName="New Zealand" capital="Wellington" />
+    <country countryName="Oman" capital="Muscat" />
+    <country countryName="Panama" capital="Panama City" />
+    <country countryName="Peru" capital="Lima" />
+    <country countryName="French Polynesia" capital="Papeete" />
+    <country countryName="Papua New Guinea" capital="Port Moresby" />
+    <country countryName="Philippines" capital="Manila" />
+    <country countryName="Pakistan" capital="Islamabad" />
+    <country countryName="Poland" capital="Warsaw" />
+    <country countryName="Saint Pierre and Miquelon" capital="Saint-Pierre" />
+    <country countryName="Pitcairn Islands" capital="Adamstown" />
+    <country countryName="Puerto Rico" capital="San Juan" />
+    <country countryName="Palestine" capital="" />
+    <country countryName="Portugal" capital="Lisbon" />
+    <country countryName="Palau" capital="Melekeok" />
+    <country countryName="Paraguay" capital="Asunción" />
+    <country countryName="Qatar" capital="Doha" />
+    <country countryName="Réunion" capital="Saint-Denis" />
+    <country countryName="Romania" capital="Bucharest" />
+    <country countryName="Serbia" capital="Belgrade" />
+    <country countryName="Russia" capital="Moscow" />
+    <country countryName="Rwanda" capital="Kigali" />
+    <country countryName="Saudi Arabia" capital="Riyadh" />
+    <country countryName="Solomon Islands" capital="Honiara" />
+    <country countryName="Seychelles" capital="Victoria" />
+    <country countryName="Sudan" capital="Khartoum" />
+    <country countryName="Sweden" capital="Stockholm" />
+    <country countryName="Singapore" capital="Singapore" />
+    <country countryName="Saint Helena" capital="Jamestown" />
+    <country countryName="Slovenia" capital="Ljubljana" />
+    <country countryName="Svalbard and Jan Mayen" capital="Longyearbyen" />
+    <country countryName="Slovakia" capital="Bratislava" />
+    <country countryName="Sierra Leone" capital="Freetown" />
+    <country countryName="San Marino" capital="San Marino" />
+    <country countryName="Senegal" capital="Dakar" />
+    <country countryName="Somalia" capital="Mogadishu" />
+    <country countryName="Suriname" capital="Paramaribo" />
+    <country countryName="South Sudan" capital="Juba" />
+    <country countryName="São Tomé and Príncipe" capital="São Tomé" />
+    <country countryName="El Salvador" capital="San Salvador" />
+    <country countryName="Sint Maarten" capital="Philipsburg" />
+    <country countryName="Syria" capital="Damascus" />
+    <country countryName="Swaziland" capital="Mbabane" />
+    <country countryName="Turks and Caicos Islands" capital="Cockburn Town" />
+    <country countryName="Chad" capital="N'Djamena" />
+    <country countryName="French Southern Territories" capital="Port-aux-Français" />
+    <country countryName="Togo" capital="Lomé" />
+    <country countryName="Thailand" capital="Bangkok" />
+    <country countryName="Tajikistan" capital="Dushanbe" />
+    <country countryName="Tokelau" capital="" />
+    <country countryName="East Timor" capital="Dili" />
+    <country countryName="Turkmenistan" capital="Ashgabat" />
+    <country countryName="Tunisia" capital="Tunis" />
+    <country countryName="Tonga" capital="Nuku'alofa" />
+    <country countryName="Turkey" capital="Ankara" />
+    <country countryName="Trinidad and Tobago" capital="Port of Spain" />
+    <country countryName="Tuvalu" capital="Funafuti" />
+    <country countryName="Taiwan" capital="Taipei" />
+    <country countryName="Tanzania" capital="Dodoma" />
+    <country countryName="Ukraine" capital="Kiev" />
+    <country countryName="Uganda" capital="Kampala" />
+    <country countryName="U.S. Minor Outlying Islands" capital="" />
+    <country countryName="United States" capital="Washington" />
+    <country countryName="Uruguay" capital="Montevideo" />
+    <country countryName="Uzbekistan" capital="Tashkent" />
+    <country countryName="Vatican City" capital="Vatican City" />
+    <country countryName="Saint Vincent and the Grenadines" capital="Kingstown" />
+    <country countryName="Venezuela" capital="Caracas" />
+    <country countryName="British Virgin Islands" capital="Road Town" />
+    <country countryName="U.S. Virgin Islands" capital="Charlotte Amalie" />
+    <country countryName="Vietnam" capital="Hanoi" />
+    <country countryName="Vanuatu" capital="Port Vila" />
+    <country countryName="Wallis and Futuna" capital="Mata-Utu" />
+    <country countryName="Samoa" capital="Apia" />
+    <country countryName="Kosovo" capital="Pristina" />
+    <country countryName="Yemen" capital="Sanaa" />
+    <country countryName="Mayotte" capital="Mamoudzou" />
+    <country countryName="South Africa" capital="Pretoria" />
+    <country countryName="Zambia" capital="Lusaka" />
+    <country countryName="Zimbabwe" capital="Harare" />
+</countries>

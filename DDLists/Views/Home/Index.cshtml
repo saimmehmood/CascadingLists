@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@using ListHelper.External_Models;
+@model IEnumerable<ListHelper.External_Models.Countries>
+
+@using (Html.BeginForm())
+{
+
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            <label class="col-md-2 control-label">Select Country</label>
+            <div class="col-md-10">
+                @Html.DropDownList("countryList", new SelectList(ViewBag.CountryList), new { @class = "form-control" })
+            </div>
+        </div>
+
+    </div>
+   
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            <label class="col-md-2 control-label">Capital Name</label>
+            <div class="col-md-10">
+                @Html.DropDownList("capitalName", new SelectList(ViewBag.CapitalName), new { @class = "form-control" })
+            </div>
+        </div>
+
+    </div>
+}
+
+ <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script> 
+    $('#countryList').on('change', function () {
+        var selectedIndex = $("#countryList")[0].selectedIndex;
+        $('#capitalName option')[selectedIndex].selected = true;
+        })
+</script>
